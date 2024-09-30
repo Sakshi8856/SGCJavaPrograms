@@ -1,7 +1,7 @@
 /**Let’s take the example of odd and even. If a number is even, we also need to check whether the number is divisible by 6. And if the number is odd, we need to check whether the number is divisible by 3. Here, a single if-else statement won’t be able to solve the problem. Therefore, we need to use nested if-else statements.
  */
 import java.util.*;
-public class program_nested_if_else {
+public class nested_if_else {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         int number;

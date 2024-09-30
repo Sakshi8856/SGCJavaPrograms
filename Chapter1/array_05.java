@@ -1,5 +1,4 @@
-import java.util.*;
-public class program_array_05 {
+public class array_05 {
     public static void main(String args[])
     {
         //array declaration

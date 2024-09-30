@@ -1,5 +1,5 @@
 import java.io.*;
-public class program_BufferReader_01 {
+public class BufferReader_01 {
     public static void main(String args[])throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Enter your name:");

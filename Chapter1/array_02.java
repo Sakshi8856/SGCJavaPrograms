@@ -1,4 +1,4 @@
-public class program_array_02 {
+public class array_02 {
     public static void main(String args[]){
         //array declaration
         int arr[]={10,20,30,40,50};

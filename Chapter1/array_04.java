@@ -1,4 +1,4 @@
-public class program_array_04 {
+public class array_04 {
     public static void main(String args[]){
         //2D array with 3 rows and 4 columns
         int[][] twoD_array = new int[3][4];

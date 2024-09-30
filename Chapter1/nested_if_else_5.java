@@ -4,7 +4,7 @@ Adults (13 to 64 years): Rs. 150 on weekdays, Rs. 180 on weekends.
 Seniors (65 years and above): Rs. 130 on weekdays, Rs. 150 on weekends.
  */
 import java.util.*;
-public class program_nested_if_else_04 {
+public class nested_if_else_5 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         int age;

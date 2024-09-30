@@ -1,4 +1,4 @@
-public class program_array_03 {
+public class array_03 {
     public static void main(String args[]){
         int[] numbers = {10,20,30,40,50};
         int sum = 0;

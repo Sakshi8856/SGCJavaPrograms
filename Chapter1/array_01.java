@@ -1,5 +1,5 @@
 import java.util.*;
-public class program_array_01 {
+public class array_01 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         //array declaration

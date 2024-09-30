@@ -1,5 +1,5 @@
 //Find the tallest student among 3 students
-public class program_nested_if_else_02 {
+public class nested_if_else_3 {
     public static void main(String args[]){
         int s1 = 150, s2 = 170, s3 = 180;
         if(s1>s2){

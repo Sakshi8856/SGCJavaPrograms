@@ -6,7 +6,7 @@ Green light: "Drive" if no pedestrian is waiting, "Slow down" if a pedestrian is
 Yellow light: "Prepare to stop", regardless of pedestrians.
 Red light: "Stop", regardless of pedestrians.
  */
-public class program_nested_if_else_05 {
+public class nested_if_else_4 {
     public static void main(String args[]){
         String trafficLight = "Yellow";
         boolean isPedestrian = true;
