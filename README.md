@@ -1,2 +1,0 @@
-# SGCJavaPrograms
-# SGCJavaPrograms
