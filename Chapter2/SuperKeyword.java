@@ -1,4 +1,4 @@
-package inheritanceandinterface;
+
 //Base class
 class Vehicle {
  String brand;
